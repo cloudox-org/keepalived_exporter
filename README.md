@@ -1,8 +1,8 @@
-# Artifactory Exporter
+# keepalived Exporter
 
-[![RPM builds for EL8, EL9 and EL10](https://github.com/cloudox-org/artifactory_exporter/actions/workflows/rpm-build.yml/badge.svg?branch=main)](https://github.com/cloudox-org/artifactory_exporter/actions/workflows/rpm-build.yml)
+[![RPM builds for EL8, EL9 and EL10](https://github.com/cloudox-org/keepalived_exporter/actions/workflows/rpm-build.yml/badge.svg?branch=main)](https://github.com/cloudox-org/keepalived_exporter/actions/workflows/rpm-build.yml)
 
-Artifactory Exporter RPM builds for EL8,EL9 and EL10
+keepalived Exporter RPM builds for EL8,EL9 and EL10
 
 RPM repo available here:
 
